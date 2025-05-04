@@ -1,2 +1,2 @@
 # AI-Models
-bg remove &lt;description generation and ai chatbot
+bg remove ,description generation and ai chatbot
